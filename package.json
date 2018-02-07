@@ -1,0 +1,27 @@
+{
+  "name": "sdd-stats",
+  "version": "1.0.0",
+  "description": "Discord stats Backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalonDesDevs/stats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalonDesDevs/stats/issues"
+  },
+  "homepage": "https://github.com/SalonDesDevs/stats#readme",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
